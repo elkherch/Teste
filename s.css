@@ -4,14 +4,14 @@
     padding: 0;
 }
 body{
-    background-color: rgb(7, 107, 74);
+    background-color: rgb(181, 179, 183);
     align-items:center ;
     justify-content: center;
     display: flex;
     height: 100vh;
 }
 .container{
-    background-color: #fff;
+    background-color: #917bb4;
     border-radius: 12px;
     box-sizing: 0  2px 5px rgba(0, 0, 0, 0.3);
     width: 400px;
@@ -19,7 +19,7 @@ body{
     overflow: hidden;
 }
 .header{
-  background-color: #f7f7f7;
+  background-color: #917bb4;
   border-bottom: 1px solid #f0f0f0;
   padding: 20px 30px;
 }
